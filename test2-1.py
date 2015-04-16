@@ -7,6 +7,6 @@
 ###########代码############### 
 import math 
 def main():
-	x,v =input （“请输入x,v：”）
-	t=x/v	#x 为位移 v为速度 t 为时间
-	print “时间t",t 
+	p,k,T=input ("请输入p,k,T:")
+	n=p/kT #n为分子数 #p为压强 #T为温度 #k为常数
+	print "分子数n",n 
